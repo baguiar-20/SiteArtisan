@@ -1,0 +1,1 @@
+import Navbar from 'src/components/Navbar/Navbar.jsx'
